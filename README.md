@@ -54,6 +54,10 @@
       + Click Edit, Validate data update Contact table then browse to ListContact.jsp to display result
     
     ![image](https://user-images.githubusercontent.com/91947000/147908467-1e99e1e6-ed90-462b-a3bf-3601eaf645e0.png)
+    
+- Remove Contact
+
+ Remove contact in database and browse to ListContact.jsp
 
 - List Group
  
@@ -82,6 +86,6 @@
       
       + Click Return To Group List, browse to ListGroup.jsp
   
-  
+  ![image](https://user-images.githubusercontent.com/91947000/147908755-4255f0ce-588f-41aa-9090-fda4bbe4c68b.png)
   
   
